@@ -1,0 +1,244 @@
+<svg width="1200" height="380" viewBox="0 0 1200 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505"></stop>
+      <stop offset="0.5" stop-color="#101010"></stop>
+      <stop offset="1" stop-color="#030303"></stop>
+    </linearGradient>
+
+    <linearGradient id="sky" x1="600" y1="20" x2="600" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1C1C1C"></stop>
+      <stop offset="1" stop-color="#080808"></stop>
+    </linearGradient>
+
+    <linearGradient id="gold" x1="400" y1="100" x2="850" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB347"></stop>
+      <stop offset="0.5" stop-color="#F07818"></stop>
+      <stop offset="1" stop-color="#8B3500"></stop>
+    </linearGradient>
+
+    <linearGradient id="blade" x1="500" y1="80" x2="760" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F5F5"></stop>
+      <stop offset="0.5" stop-color="#888888"></stop>
+      <stop offset="1" stop-color="#252525"></stop>
+    </linearGradient>
+
+    <radialGradient id="sun">
+      <stop stop-color="#FFB347" stop-opacity="0.8"></stop>
+      <stop offset="0.4" stop-color="#F07818" stop-opacity="0.25"></stop>
+      <stop offset="1" stop-color="#F07818" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <linearGradient id="water" x1="0" y1="280" x2="0" y2="380">
+      <stop stop-color="#171717"></stop>
+      <stop offset="1" stop-color="#020202"></stop>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8"></feGaussianBlur>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="18"></feGaussianBlur>
+    </filter>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.9"></feDropShadow>
+    </filter>
+
+    <pattern id="grid" width="55" height="28" patternUnits="userSpaceOnUse">
+      <path d="M55 0L0 28M0 0L55 28" stroke="#FFFFFF" stroke-opacity="0.025"></path>
+    </pattern>
+
+    <clipPath id="round">
+      <rect width="1200" height="380" rx="18"></rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+
+    <!-- BACKGROUND -->
+    <rect width="1200" height="380" fill="url(#bg)"></rect>
+    <rect width="1200" height="260" fill="url(#sky)"></rect>
+
+    <!-- CINEMATIC LIGHT -->
+    <ellipse cx="620" cy="175" rx="310" ry="230" fill="url(#sun)"></ellipse>
+    <ellipse cx="620" cy="185" rx="220" ry="160" fill="#F07818" opacity="0.05" filter="url(#softGlow)"></ellipse>
+
+    <!-- DISTANT MOUNTAINS -->
+    <path d="M0 245L145 155L220 205L340 105L470 215L610 125L760 215L890 115L1040 205L1200 145V290H0V245Z" fill="#111111"></path>
+
+    <path d="M0 255L150 185L230 220L350 145L470 235L615 155L760 235L900 150L1050 225L1200 175V290H0V255Z" fill="#080808"></path>
+
+    <!-- HORIZON GLOW -->
+    <path d="M0 278C220 250 370 272 600 263C820 254 1000 270 1200 250V310H0V278Z" fill="#F07818" opacity="0.08" filter="url(#glow)"></path>
+
+    <!-- OCEAN -->
+    <path d="M0 275C220 260 380 282 600 270C830 258 1000 280 1200 260V380H0V275Z" fill="url(#water)"></path>
+
+    <!-- WATER LINES -->
+    <g opacity="0.18">
+      <path d="M40 305H300" stroke="#D97724"></path>
+      <path d="M370 300H650" stroke="#D97724"></path>
+      <path d="M720 306H1040" stroke="#D97724"></path>
+      <path d="M1050 295H1180" stroke="#D97724"></path>
+
+      <path d="M120 330H430" stroke="#777"></path>
+      <path d="M500 340H850" stroke="#777"></path>
+      <path d="M910 325H1160" stroke="#777"></path>
+
+      <path d="M20 360H260" stroke="#444"></path>
+      <path d="M340 365H620" stroke="#444"></path>
+      <path d="M720 355H980" stroke="#444"></path>
+    </g>
+
+    <!-- PERSPECTIVE GRID -->
+    <path d="M0 285H1200V380H0Z" fill="url(#grid)"></path>
+
+    <!-- VIKING SHIP -->
+    <g filter="url(#shadow)">
+      <path d="M115 294C215 300 315 298 420 288L370 322C285 335 190 330 115 294Z" fill="#080808" stroke="#8C471C" stroke-width="2"></path>
+
+      <path d="M170 298L260 307L350 298" stroke="#D97724" stroke-width="2" opacity="0.7"></path>
+
+      <path d="M255 302V205" stroke="#A85A25" stroke-width="5"></path>
+
+      <path d="M260 210L335 260L260 270Z" fill="#171717" stroke="#A85A25" stroke-width="2"></path>
+      <path d="M252 215L185 258L252 270Z" fill="#111111" stroke="#6B3517" stroke-width="2"></path>
+
+      <path d="M190 258L252 215L335 260" stroke="#D97724" stroke-width="1" opacity="0.5"></path>
+    </g>
+
+    <!-- MAIN WARRIOR GLOW -->
+    <ellipse cx="650" cy="240" rx="150" ry="120" fill="#F07818" opacity="0.12" filter="url(#softGlow)"></ellipse>
+
+    <!-- WARRIOR SILHOUETTE -->
+    <g filter="url(#shadow)">
+
+      <!-- BACK CAPE -->
+      <path d="M612 165
+               C565 185 548 235 535 300
+               L600 284
+               L640 220
+               L680 285
+               L745 305
+               C730 240 712 190 675 165Z" fill="#090909" stroke="#2A2A2A" stroke-width="2"></path>
+
+      <!-- HEAD -->
+      <ellipse cx="648" cy="115" rx="35" ry="39" fill="#0A0A0A"></ellipse>
+
+      <!-- HAIR -->
+      <path d="M615 115
+               C600 82 617 61 646 67
+               C678 57 704 82 691 115
+               L675 98
+               L661 112
+               L645 92
+               L630 112Z" fill="#050505" stroke="#2D2D2D" stroke-width="2"></path>
+
+      <!-- FACE LIGHT -->
+      <path d="M635 107C648 99 664 100 676 109L670 130C657 140 641 137 633 126Z" fill="#151515"></path>
+
+      <!-- NECK -->
+      <path d="M635 139L635 158L665 158L667 138Z" fill="#090909"></path>
+
+      <!-- TORSO -->
+      <path d="M605 155
+               L635 145
+               L665 146
+               L699 164
+               L680 225
+               L642 244
+               L604 222
+               L588 170Z" fill="#0B0B0B" stroke="#343434" stroke-width="2"></path>
+
+      <!-- ARM LEFT -->
+      <path d="M605 162L578 180L545 225L561 238L601 202L624 180Z" fill="#090909" stroke="#292929" stroke-width="2"></path>
+
+      <!-- ARM RIGHT -->
+      <path d="M690 166L717 187L752 222L738 237L700 207L673 185Z" fill="#090909" stroke="#292929" stroke-width="2"></path>
+
+      <!-- LEGS -->
+      <path d="M613 218L644 235L633 292L607 292L596 244Z" fill="#090909" stroke="#2D2D2D" stroke-width="2"></path>
+
+      <path d="M644 235L675 220L704 282L681 297L653 270Z" fill="#090909" stroke="#2D2D2D" stroke-width="2"></path>
+
+      <!-- BOOTS -->
+      <path d="M604 285L636 285L640 306L590 306Z" fill="#050505"></path>
+      <path d="M680 285L705 279L724 302L680 306Z" fill="#050505"></path>
+
+      <!-- ARMOR -->
+      <path d="M606 166L637 151L668 153L686 169L673 185L643 176L616 187Z" fill="#151515" stroke="#555555" stroke-width="1"></path>
+
+      <!-- SHOULDER -->
+      <path d="M602 159L620 149L631 162L612 177Z" fill="#202020"></path>
+      <path d="M671 153L692 164L682 181L663 168Z" fill="#202020"></path>
+
+      <!-- SWORD HANDLE -->
+      <path d="M737 224L765 245" stroke="#9A5A25" stroke-width="8"></path>
+      <path d="M731 220L751 240" stroke="#E1A05D" stroke-width="3"></path>
+
+      <!-- SWORD BLADE -->
+      <path d="M758 243L893 325L905 319L778 231Z" fill="url(#blade)" stroke="#BDBDBD" stroke-width="1"></path>
+
+      <!-- BLADE EDGE -->
+      <path d="M777 233L900 319" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="2"></path>
+
+      <!-- BLADE GLOW -->
+      <path d="M778 231L900 319" stroke="#F07818" stroke-opacity="0.35" stroke-width="7" filter="url(#glow)"></path>
+
+      <!-- BELT -->
+      <path d="M602 211L681 201" stroke="#A05A25" stroke-width="5"></path>
+      <circle cx="643" cy="207" r="6" fill="#D97724"></circle>
+
+    </g>
+
+    <!-- 3D ORANGE EDGE LIGHT -->
+    <path d="M584 174C600 155 616 148 632 144" stroke="#F07818" stroke-width="3" opacity="0.7"></path>
+
+    <path d="M695 168C712 184 727 202 740 220" stroke="#F07818" stroke-width="3" opacity="0.55"></path>
+
+    <!-- FLOATING PARTICLES -->
+    <g fill="#F07818">
+      <circle cx="470" cy="110" r="2"></circle>
+      <circle cx="520" cy="165" r="1.5"></circle>
+      <circle cx="790" cy="105" r="2"></circle>
+      <circle cx="850" cy="175" r="1.5"></circle>
+      <circle cx="930" cy="120" r="2"></circle>
+      <circle cx="420" cy="210" r="1.5"></circle>
+      <circle cx="815" cy="230" r="2"></circle>
+    </g>
+
+    <!-- TITLE -->
+    <g text-anchor="middle">
+      <text x="600" y="58" fill="#F2F2F2" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" letter-spacing="10">
+        VINLAND
+      </text>
+
+      <text x="600" y="87" fill="#F07818" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="7">
+        A WARRIOR'S JOURNEY
+      </text>
+    </g>
+
+    <!-- TOP DEPTH LINES -->
+    <path d="M0 20H1200" stroke="#FFFFFF" stroke-opacity="0.06"></path>
+    <path d="M0 25H1200" stroke="#F07818" stroke-opacity="0.12"></path>
+
+    <!-- FRAME -->
+    <rect x="1.5" y="1.5" width="1197" height="377" rx="18" stroke="#F07818" stroke-opacity="0.25"></rect>
+
+    <rect x="8" y="8" width="1184" height="364" rx="14" stroke="#FFFFFF" stroke-opacity="0.04"></rect>
+
+    <!-- CORNER MARKS -->
+    <path d="M30 45V25H50" stroke="#F07818" stroke-width="2"></path>
+    <path d="M1150 25H1170V45" stroke="#F07818" stroke-width="2"></path>
+    <path d="M30 335V355H50" stroke="#F07818" stroke-width="2"></path>
+    <path d="M1150 355H1170V335" stroke="#F07818" stroke-width="2"></path>
+
+    <!-- SMALL FOOTER -->
+    <text x="600" y="350" text-anchor="middle" fill="#777777" font-family="Arial, Helvetica, sans-serif" font-size="9" letter-spacing="5">
+      DISCIPLINE • CONSISTENCY • PROGRESS
+    </text>
+
+  </g>
+</svg>
