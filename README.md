@@ -37,19 +37,8 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 
 ---
 
-## 📁 Repository Structure
+<div align="center">
 
-```text
-LeetCode_Solutions/
-│
-├── 3d-header.svg
-├── 0003-longest-substring-without-repeating-characters/
-├── 0006-zigzag-conversion/
-├── 0011-container-with-most-water/
-├── 0021-merge-two-sorted-lists/
-├── 0836-rectangle-overlap/
-├── 1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/
-├── 1621-number-of-sets-of-k-non-overlapping-line-segments/
-├── 2472-maximum-number-of-non-overlapping-palindrome-substrings/
-├── README.md
-└── stats.json
+<img src="./vinland.svg" width="100%"/>
+
+</div>
