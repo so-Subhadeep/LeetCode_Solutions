@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Binary Search
 |  |
