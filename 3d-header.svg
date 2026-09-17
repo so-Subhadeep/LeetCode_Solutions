@@ -1,0 +1,199 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#050505"/>
+    <stop offset="50%" stop-color="#101018"/>
+    <stop offset="100%" stop-color="#050505"/>
+  </linearGradient>
+
+  <linearGradient id="cube" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#ff9f1c"/>
+    <stop offset="100%" stop-color="#ff4d00"/>
+  </linearGradient>
+
+  <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ffffff"/>
+    <stop offset="50%" stop-color="#ffb347"/>
+    <stop offset="100%" stop-color="#ffffff"/>
+  </linearGradient>
+
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+
+  <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
+    <path d="M 50 0 L 0 0 0 50"
+          fill="none"
+          stroke="#ffffff"
+          stroke-opacity="0.06"
+          stroke-width="1"/>
+  </pattern>
+
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="400" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="400" rx="24" fill="url(#grid)"/>
+
+<!-- Perspective floor -->
+<g opacity="0.25">
+  <path d="M0 330 L1200 330" stroke="#ff8c00"/>
+  <path d="M0 360 L1200 360" stroke="#ff8c00"/>
+  <path d="M150 400 L450 300" stroke="#ff8c00"/>
+  <path d="M400 400 L550 300" stroke="#ff8c00"/>
+  <path d="M650 400 L650 300" stroke="#ff8c00"/>
+  <path d="M900 400 L750 300" stroke="#ff8c00"/>
+  <path d="M1150 400 L850 300" stroke="#ff8c00"/>
+</g>
+
+<!-- Floating particles -->
+<g fill="#ff9f1c" filter="url(#glow)">
+  <circle cx="100" cy="80" r="3">
+    <animate attributeName="cy"
+             values="80;65;80"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="1050" cy="90" r="3">
+    <animate attributeName="cy"
+             values="90;70;90"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="940" cy="250" r="2">
+    <animate attributeName="cy"
+             values="250;225;250"
+             dur="3.5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="180" cy="260" r="2">
+    <animate attributeName="cy"
+             values="260;240;260"
+             dur="4s"
+             repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- 3D Cube -->
+<g transform="translate(160 90)" filter="url(#glow)">
+
+  <!-- Left -->
+  <polygon
+    points="0,70 90,20 90,130 0,180"
+    fill="#c75d00"/>
+
+  <!-- Right -->
+  <polygon
+    points="90,20 180,70 180,180 90,130"
+    fill="#ff7b00"/>
+
+  <!-- Top -->
+  <polygon
+    points="0,70 90,20 180,70 90,120"
+    fill="url(#cube)"/>
+
+  <!-- Cube lines -->
+  <polyline
+    points="0,70 90,120 180,70"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.5"/>
+
+  <polyline
+    points="90,20 90,130"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity="0.5"/>
+
+  <!-- Code symbol -->
+  <text
+    x="90"
+    y="100"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="45"
+    font-weight="bold"
+    fill="white">
+    &lt;/&gt;
+  </text>
+
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    values="0 90 100;2 90 100;0 90 100;-2 90 100;0 90 100"
+    dur="6s"
+    repeatCount="indefinite"/>
+
+</g>
+
+<!-- Main Title -->
+<text
+  x="650"
+  y="145"
+  text-anchor="middle"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="64"
+  font-weight="800"
+  fill="url(#text)">
+  LEETCODE
+</text>
+
+<text
+  x="650"
+  y="215"
+  text-anchor="middle"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="64"
+  font-weight="800"
+  fill="white">
+  SOLUTIONS
+</text>
+
+<!-- Subtitle -->
+<text
+  x="650"
+  y="260"
+  text-anchor="middle"
+  font-family="monospace"
+  font-size="18"
+  fill="#b8b8b8">
+  SOLVE • OPTIMIZE • LEARN • REPEAT
+</text>
+
+<!-- Accent line -->
+<rect
+  x="430"
+  y="285"
+  width="440"
+  height="2"
+  rx="2"
+  fill="#ff9f1c"
+  filter="url(#glow)">
+  <animate
+    attributeName="width"
+    values="300;440;300"
+    dur="4s"
+    repeatCount="indefinite"/>
+</rect>
+
+<!-- Bottom text -->
+<text
+  x="650"
+  y="330"
+  text-anchor="middle"
+  font-family="monospace"
+  font-size="16"
+  fill="#777">
+  JAVA • DATA STRUCTURES • ALGORITHMS
+</text>
+
+</svg>
