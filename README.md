@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/3d-header.svg" width="100%"/>
+<img src="./3d-header.svg" width="100%"/>
 
 </div>
 
@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/github/last-commit/so-Subhadeep/LeetCode_Solutions?style=for-the-badge"/>
-<img src="https://img.shields.io/github/repo-size/so-Subhadeep/LeetCode_Solutions?style=for-the-badge"/>
 
 </p>
 
@@ -43,9 +42,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 ```text
 LeetCode_Solutions/
 │
-├── assets/
-│   └── 3d-header.svg
-│
+├── 3d-header.svg
 ├── 0003-longest-substring-without-repeating-characters/
 ├── 0006-zigzag-conversion/
 ├── 0011-container-with-most-water/
@@ -54,6 +51,5 @@ LeetCode_Solutions/
 ├── 1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/
 ├── 1621-number-of-sets-of-k-non-overlapping-line-segments/
 ├── 2472-maximum-number-of-non-overlapping-palindrome-substrings/
-│
 ├── README.md
 └── stats.json
