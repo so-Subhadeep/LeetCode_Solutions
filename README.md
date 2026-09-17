@@ -1,45 +1,40 @@
-# ⚡ LeetCode Solutions
+<div align="center">
+
+<img src="./assets/3d-header.svg" width="100%"/>
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/github/last-commit/so-Subhadeep/LeetCode_Solutions?style=for-the-badge" />
-</p>
 
-<p align="center">
-  <b>A collection of my LeetCode solutions focused on Data Structures, Algorithms, and efficient Java programming.</b>
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Platform-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/github/last-commit/so-Subhadeep/LeetCode_Solutions?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/so-Subhadeep/LeetCode_Solutions?style=for-the-badge"/>
+
 </p>
 
 ---
 
 ## 🚀 Repository Overview
 
-This repository contains my solutions to **LeetCode problems** that I solve while practicing Data Structures & Algorithms.
+A collection of my **LeetCode solutions in Java**, created while practicing Data Structures & Algorithms and improving my problem-solving skills.
 
-The main focus is on:
-
-- Efficient problem-solving
-- Optimized algorithms
-- Clean Java implementations
-- Time & Space Complexity
-- Coding interview preparation
+The focus is on understanding the problem, finding an efficient approach, and writing clean and optimized solutions.
 
 ---
 
-## 🧠 Topics Covered
+## 🎯 Goals
 
-- 🧩 Arrays
-- 🔤 Strings
-- 🔗 Linked Lists
-- 🔍 Hashing
-- 🪟 Sliding Window
-- 👆 Two Pointers
-- 📊 Prefix Sum
-- 🧠 Dynamic Programming
-- 💡 Greedy Algorithms
-- 📐 Geometry
-- 🔄 Simulation
-- 📈 Optimization
+- 🧠 Build a strong foundation in **Data Structures & Algorithms**
+- ⚡ Improve **problem-solving and logical thinking**
+- 🔍 Master common **algorithmic patterns**
+- ☕ Write clean and optimized **Java solutions**
+- 📊 Improve **Time & Space Complexity analysis**
+- 💼 Prepare for **coding interviews and technical rounds**
+- 🔥 Maintain consistency in **daily problem solving**
+- 📈 Track continuous improvement throughout my **DSA journey**
 
 ---
 
@@ -47,6 +42,9 @@ The main focus is on:
 
 ```text
 LeetCode_Solutions/
+│
+├── assets/
+│   └── 3d-header.svg
 │
 ├── 0003-longest-substring-without-repeating-characters/
 ├── 0006-zigzag-conversion/
