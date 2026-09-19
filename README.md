@@ -61,4 +61,12 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Math
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
