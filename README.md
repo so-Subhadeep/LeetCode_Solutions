@@ -53,6 +53,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -86,4 +87,12 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
