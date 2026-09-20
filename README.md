@@ -61,6 +61,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
@@ -74,4 +75,12 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+## Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
