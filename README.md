@@ -55,6 +55,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -104,4 +105,12 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
