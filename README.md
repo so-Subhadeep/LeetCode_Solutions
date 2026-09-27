@@ -62,6 +62,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -123,10 +124,12 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
 | ------- |
