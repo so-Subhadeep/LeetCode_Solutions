@@ -49,6 +49,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -98,6 +99,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -167,9 +169,22 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
