@@ -60,6 +60,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -111,6 +112,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
@@ -130,6 +132,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Binary Search
 |  |
@@ -163,6 +166,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
