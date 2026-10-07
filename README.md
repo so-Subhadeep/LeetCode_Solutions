@@ -67,6 +67,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0058-length-of-last-word) |
+| [0301-remove-invalid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
@@ -195,10 +196,12 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0017-letter-combinations-of-a-phone-number](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
