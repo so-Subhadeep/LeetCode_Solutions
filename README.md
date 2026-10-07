@@ -92,6 +92,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -216,4 +217,8 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
