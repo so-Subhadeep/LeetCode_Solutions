@@ -159,6 +159,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Segment Tree
 |  |
 | ------- |
@@ -265,6 +266,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
