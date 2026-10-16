@@ -85,6 +85,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -126,6 +127,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0036-valid-sudoku](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -149,6 +151,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
