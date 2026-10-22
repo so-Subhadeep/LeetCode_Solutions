@@ -109,6 +109,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [0012-integer-to-roman](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -173,6 +174,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0010-regular-expression-matching](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0050-powx-n) |
 ## Segment Tree
 |  |
 | ------- |
