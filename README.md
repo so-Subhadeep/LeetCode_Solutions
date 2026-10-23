@@ -148,6 +148,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [3525-find-x-value-of-array-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -269,6 +270,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [0029-divide-two-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Enumeration
 |  |
 | ------- |
