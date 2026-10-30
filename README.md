@@ -84,6 +84,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -308,6 +309,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -351,4 +353,12 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
