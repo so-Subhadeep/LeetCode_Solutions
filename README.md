@@ -112,6 +112,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0012-integer-to-roman](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
@@ -138,6 +139,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
