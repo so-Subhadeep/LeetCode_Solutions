@@ -100,6 +100,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -113,6 +114,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0029-divide-two-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
@@ -140,6 +142,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0040-combination-sum-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
