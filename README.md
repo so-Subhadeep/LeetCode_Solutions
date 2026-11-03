@@ -122,6 +122,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [3525-find-x-value-of-array-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
@@ -161,6 +162,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
