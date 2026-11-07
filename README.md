@@ -144,6 +144,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0018-4sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
@@ -241,6 +242,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
