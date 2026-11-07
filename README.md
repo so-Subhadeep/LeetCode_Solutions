@@ -142,6 +142,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
@@ -182,6 +183,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0016-3sum-closest](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
