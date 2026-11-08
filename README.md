@@ -153,6 +153,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -288,6 +289,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0301-remove-invalid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
@@ -295,6 +297,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0036-valid-sudoku](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -358,6 +361,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -384,6 +388,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -393,4 +398,8 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
