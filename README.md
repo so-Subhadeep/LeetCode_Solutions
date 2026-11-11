@@ -97,6 +97,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Geometry
 |  |
