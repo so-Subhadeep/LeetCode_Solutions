@@ -171,6 +171,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -220,6 +221,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Stack
 |  |
@@ -233,6 +235,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -260,6 +263,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
@@ -414,4 +418,16 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
