@@ -121,6 +121,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -158,6 +159,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1254-number-of-closed-islands](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -203,6 +205,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0032-longest-valid-parentheses](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -270,6 +273,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
