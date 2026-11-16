@@ -84,6 +84,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -140,6 +141,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
