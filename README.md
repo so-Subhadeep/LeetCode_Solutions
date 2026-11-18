@@ -86,6 +86,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -200,6 +201,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,6 +213,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
