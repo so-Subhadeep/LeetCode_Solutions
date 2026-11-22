@@ -84,6 +84,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
