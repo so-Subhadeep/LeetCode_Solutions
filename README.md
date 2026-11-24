@@ -132,6 +132,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -186,6 +187,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -283,6 +285,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -355,6 +358,7 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
@@ -461,4 +465,8 @@ The focus is on understanding the problem, finding an efficient approach, and wr
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/so-Subhadeep/LeetCode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
